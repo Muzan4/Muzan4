@@ -247,15 +247,6 @@ This client-side platform translates real-world financial decision matrices into
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
-<!-- GITHUB TROPHIES -->
-<div align="center">
-
-## 🏅 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Muzan4&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-
-</div>
-
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
