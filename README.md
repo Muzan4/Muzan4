@@ -17,15 +17,15 @@
   <a href="https://zuvikasalon.com/"><img src="https://img.shields.io/badge/Portfolio-Premium-9370DB?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:aabidzaidi2016@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/aabidzaidi"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/Muzan4"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aabidzaidi&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/aabidzaidi?label=Followers&style=flat-square&color=indigo" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/aabidzaidi?label=Stars&style=flat-square&color=purple" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Muzan4&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Muzan4?label=Followers&style=flat-square&color=indigo" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Muzan4?label=Stars&style=flat-square&color=purple" alt="Stars" />
 </div>
 
 ---
@@ -92,7 +92,7 @@ A sophisticated Python simulation framework that models multi-node satellite com
 | **Performance** | Optimized shortest-path geometric array computes |
 | **Security** | Isolated localized network environments |
 | **Impact** | Engineered scalable predictive mapping structures for simulated hardware telemetry |
-| **Repository** | [Visit Architecture Codebase](https://github.com) |
+| **Repository** | [Visit Architecture Codebase](https://github.com/Muzan4) |
 
 #### Deep-Dive Engineering Breakdown
 This application integrates real-time shortest-path coordinate resolution with a custom spatial simulation loop. It continuously parses movement datasets to dynamically compute routing optimizations between tracking terminals and orbiting arrays, illustrating spatial multi-node interaction under strict computational parameters.
@@ -111,7 +111,7 @@ An isolated mathematical modeling software that analyzes agricultural datasets u
 | **Performance** | Sub-second predictive analytical calculations |
 | **Security** | Secure local dataset configuration |
 | **Impact** | Automated regression tracking processing for predictive farming output models |
-| **Repository** | [Visit Architecture Codebase](https://github.com) |
+| **Repository** | [Visit Architecture Codebase](https://github.com/Muzan4) |
 
 #### Deep-Dive Engineering Breakdown
 Built to optimize raw resource modeling, this program transforms linear regression equations into automated data systems. The script isolates inputs to handle matrix multiplication operations smoothly, providing reproducible mathematical modeling structures over variable data parameters.
@@ -130,7 +130,7 @@ A complete, live production-level web application seamlessly integrated with an 
 | **Performance** | Real-time backend document modifications and state persistence |
 | **Security** | Secure database access configurations via server environment variables |
 | **Impact** | Deployed fully automated transactional loops across international business operations |
-| **Repository** | [Visit Architecture Codebase](https://github.com) |
+| **Repository** | [Visit Architecture Codebase](https://github.com/Muzan4) |
 
 #### Deep-Dive Engineering Breakdown
 Designed as a full-stack corporate framework, this project connects dynamic transactional logic directly to a cloud database cluster. The POS state tracking engine uses asynchronous network logic to keep web ordering systems and physical terminal nodes synchronized under varying traffic conditions.
@@ -168,7 +168,7 @@ An interactive web application designed to gamify complex microeconomic concepts
 | **Performance** | Accelerated frame transitions using direct DOM updates and clean asset rendering |
 | **Security** | Sandboxed client architecture preventing state-injection exploits |
 | **Impact** | Simplifies complex financial literacy pathways into clear, interactive educational software |
-| **Repository** | [Visit Architecture Codebase](https://github.com) |
+| **Repository** | [Visit Architecture Codebase](https://github.com/Muzan4) |
 
 #### Deep-Dive Engineering Breakdown
 This client-side platform translates real-world financial decision matrices into interactive web states. By avoiding external structural weights, the framework minimizes operational latency on low-end mobile viewports while keeping game states responsive.
@@ -178,13 +178,13 @@ This client-side platform translates real-world financial decision matrices into
 
 ## 6. Experience Section
 
-### **Database Management & Web Development Intern** | [cite_start]Bhookie (United Kingdom) [cite: 7, 8]
-[cite_start]*April 2025 – July 2025* [cite: 11]
+### **Database Management & Web Development Intern** | Bhookie (United Kingdom)
+*April 2025 – July 2025*
 
-* [cite_start]Collaborated on technical infrastructure changes across various operational capacities, shifting from database programmer to technical project lead[cite: 9].
-* [cite_start]Developed full-stack cloud data storage pipelines by linking real-time Firebase services directly into active Node.js server configurations[cite: 22, 26, 31].
-* [cite_start]Engineered multi-channel Point-of-Sale integrations to ensure fast transaction handling between public web menus and internal business portals[cite: 31].
-* [cite_start]Optimized cross-origin data exchanges to build durable data handling routines during high-volume server spikes[cite: 31].
+* Collaborated on technical infrastructure changes across various operational capacities, shifting from database programmer to technical project lead.
+* Developed full-stack cloud data storage pipelines by linking real-time Firebase services directly into active Node.js server configurations.
+* Engineered multi-channel Point-of-Sale integrations to ensure fast transaction handling between public web menus and internal business portals.
+* Optimized cross-origin data exchanges to build durable data handling routines during high-volume server spikes.
 
 `Node.js` `Firebase` `Database Management (DBMS)` `Full Stack Engineering`
 
@@ -196,10 +196,10 @@ This client-side platform translates real-world financial decision matrices into
 
 | Recognition | Details |
 | :--- | :--- |
-| 🥇 **1st Rank Winner** | [cite_start]SIES College Hackathon Tournament — Jan 2025 [cite: 39] |
-| 🥇 **1st Rank Winner** | [cite_start]Jai Hind College Hackathon Championship — Jan 2025 [cite: 39] |
-| 🏆 **1st Rank College Placement** | [cite_start]Achieved Top Rank across Ramnarain Ruia Board Metrics — 12th ISC [cite: 40] |
-| 🎖️ **10th District Merit Placement** | [cite_start]Recognized in Regional Top Tier Standings for Academic Merit — ISC Board (87%) [cite: 14, 41] |
+| 🥇 **1st Rank Winner** | SIES College Hackathon Tournament — Jan 2025  |
+| 🥇 **1st Rank Winner** | Jai Hind College Hackathon Championship — Jan 2025  |
+| 🏆 **1st Rank College Placement** | Achieved Top Rank across Ramnarain Ruia Board Metrics — 12th ISC  |
+| 🎖️ **10th District Merit Placement** | Recognized in Regional Top Tier Standings for Academic Merit — ISC Board (87%)  |
 
 </div>
 
@@ -229,11 +229,11 @@ This client-side platform translates real-world financial decision matrices into
 ## 10. GitHub Analytics Section
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aabidzaidi&show_icons=true&theme=dark&hide_border=true&title_color=9370DB&icon_color=9370DB&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muzan4&show_icons=true&theme=dark&hide_border=true&title_color=9370DB&icon_color=9370DB&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aabidzaidi&theme=dark&hide_border=true&fire=9370DB&ring=9370DB&title=9370DB&text=FFFFFF&background=0D1117" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muzan4&theme=dark&hide_border=true&fire=9370DB&ring=9370DB&title=9370DB&text=FFFFFF&background=0D1117" alt="Streak Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabidzaidi&layout=compact&theme=dark&hide_border=true&title_color=9370DB&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzan4&layout=compact&theme=dark&hide_border=true&title_color=9370DB&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
@@ -241,7 +241,7 @@ This client-side platform translates real-world financial decision matrices into
 ## 11. GitHub Trophies Section
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aabidzaidi&theme=darkhub&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Muzan4&theme=darkhub&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -249,7 +249,7 @@ This client-side platform translates real-world financial decision matrices into
 ## 12. Contribution Activity Section
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aabidzaidi&theme=react-dark&bg_color=0D1117&color=9370DB&line=9370DB&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muzan4&theme=react-dark&bg_color=0D1117&color=9370DB&line=9370DB&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -257,7 +257,7 @@ This client-side platform translates real-world financial decision matrices into
 ## 13. Contribution Snake Section
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aabidzaidi/aabidzaidi/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Muzan4/Muzan4/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </div>
 
 ---
