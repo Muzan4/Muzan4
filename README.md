@@ -234,7 +234,7 @@ This client-side platform translates real-world financial decision matrices into
     </tr>
     <tr>
       <td>🏆 <b>1st Rank College Placement</b></td>
-      <td>Achieved Top Rank across Ramnarain Ruia Board Metrics — 12th ISC</td>
+      <td>Achieved Top Rank in M.U College (ISC Board) — 12th ISC</td>
     </tr>
     <tr>
       <td>🎖️ <b>10th District Merit Placement</b></td>
