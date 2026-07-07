@@ -289,9 +289,6 @@ This client-side platform translates real-world financial decision matrices into
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=a855f7" alt="LinkedIn" /></a>
 <a href="https://zuvikasalon.com/"><img src="https://img.shields.io/badge/Portfolio-Live-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=a855f7" alt="Portfolio" /></a>
 
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 
 <br/><br/>
 
