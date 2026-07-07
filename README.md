@@ -15,7 +15,7 @@
 <a href="https://github.com/Muzan4"><img src="https://img.shields.io/badge/GitHub-Muzan4-1a1a2e?style=for-the-badge&logo=github&logoColor=a855f7" alt="GitHub" /></a>
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=a855f7" alt="LinkedIn" /></a>
 <a href="mailto:aabidzaidi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1a1a2e?style=for-the-badge&logo=gmail&logoColor=a855f7" alt="Email" /></a>
-<a href="https://zuvikasalon.com/"><img src="https://img.shields.io/badge/Portfolio-Live-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=a855f7" alt="Portfolio" /></a>
+<a href="https://muzan4.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=a855f7" alt="Portfolio" /></a>
 
 <br/><br/>
 
@@ -301,7 +301,7 @@ This client-side platform translates real-world financial decision matrices into
 <a href="mailto:aabidzaidi@gmail.com"><img src="https://img.shields.io/badge/Email-aabidzaidi%40gmail.com-1a1a2e?style=for-the-badge&logo=gmail&logoColor=a855f7" alt="Email" /></a>
 <a href="https://github.com/Muzan4"><img src="https://img.shields.io/badge/GitHub-Muzan4-1a1a2e?style=for-the-badge&logo=github&logoColor=a855f7" alt="GitHub" /></a>
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=a855f7" alt="LinkedIn" /></a>
-<a href="https://zuvikasalon.com/"><img src="https://img.shields.io/badge/Portfolio-Live-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=a855f7" alt="Portfolio" /></a>
+<a href="https://muzan4.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=a855f7" alt="Portfolio" /></a>
 
 <br/><br/>
 
