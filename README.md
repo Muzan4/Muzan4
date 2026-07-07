@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:3b0764,70:6c3ce0,100:a855f7&height=250&section=header&text=M.%20Aabid%20Zaidi&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=16&descAlignY=58&descColor=c4b5fd&animation=fadeIn&stroke=a855f7&strokeWidth=1.8" alt="Header Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:3b0764,70:6c3ce0,100:a855f7&height=250&section=header&text=M.%20Aabid%20Zaidi&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=16&descAlignY=58&descColor=c4b5fd&animation=fadeIn&stroke=a855f7&strokeWidth=2.5" alt="Header Banner" width="100%" />
 
 <br/>
 
