@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- HERO HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:3b0764,70:6c3ce0,100:a855f7&height=250&section=header&text=M.%20Aabid%20Zaidi&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Web%20%26%20Game%20Developer&descSize=16&descAlignY=58&descColor=c4b5fd&animation=fadeIn&stroke=a855f7&strokeWidth=2" alt="Header Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:3b0764,70:6c3ce0,100:a855f7&height=250&section=header&text=M.%20Aabid%20Zaidi&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=16&descAlignY=58&descColor=c4b5fd&animation=fadeIn&stroke=a855f7&strokeWidth=2.5" alt="Header Banner" width="100%" />
 
 <br/>
 
@@ -11,7 +10,7 @@
 
 <br/>
 
-<!-- Profile & Social Badges -->
+
 <a href="https://github.com/Muzan4"><img src="https://img.shields.io/badge/GitHub-Muzan4-1a1a2e?style=for-the-badge&logo=github&logoColor=a855f7" alt="GitHub" /></a>
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=a855f7" alt="LinkedIn" /></a>
 <a href="mailto:aabidzaidi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1a1a2e?style=for-the-badge&logo=gmail&logoColor=a855f7" alt="Email" /></a>
@@ -24,7 +23,6 @@
 
 <br/><br/>
 
-<!-- Counters -->
 <img src="https://komarev.com/ghpvc/?username=Muzan4&style=flat-square&color=6c3ce0&label=PROFILE+VIEWS" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/Muzan4?label=Followers&style=flat-square&color=6c3ce0" alt="Followers" />
 <img src="https://img.shields.io/github/stars/Muzan4?label=Stars&style=flat-square&color=6c3ce0" alt="Stars" />
@@ -35,7 +33,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
-<!-- ABOUT ME -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" alt="about" /> About Me
 
 I am a highly driven Computer Science student and versatile Full-Stack Developer specializing in architecting robust digital solutions and engineering data-driven applications. Grounded in a strong product engineering mindset, my expertise bridges scalable web architectures with interactive game and application development to solve sophisticated, real-world problems.
@@ -51,7 +48,7 @@ Passionate about cross-platform system interoperability, I consistently look to 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
-<!-- TECH STACK -->
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" alt="tech" /> Tech Stack
 
 ### Languages
@@ -78,7 +75,6 @@ Passionate about cross-platform system interoperability, I consistently look to 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
-<!-- WEB & GAME DEVELOPMENT FOCUS -->
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" alt="gamedev" /> Web & Game Development Focus
 
 | Domain | Proficiency | Details |
@@ -91,7 +87,6 @@ Passionate about cross-platform system interoperability, I consistently look to 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
-<!-- FEATURED PROJECTS -->
 ## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30" alt="projects" /> Featured Projects
 
 <details>
@@ -196,7 +191,6 @@ This client-side platform translates real-world financial decision matrices into
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
-<!-- EXPERIENCE -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="experience" /> Experience
 
 ### Database Management & Web Development Intern | Bhookie (United Kingdom)
@@ -213,7 +207,7 @@ This client-side platform translates real-world financial decision matrices into
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
-<!-- ACHIEVEMENTS -->
+
 ## 🏆 Achievements
 
 <table width="100%">
@@ -247,7 +241,6 @@ This client-side platform translates real-world financial decision matrices into
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
-<!-- CERTIFICATIONS -->
 ## 📜 Certifications
 
 ### Database Engineering Providers
@@ -261,20 +254,10 @@ This client-side platform translates real-world financial decision matrices into
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
-<!-- GITHUB TROPHIES -->
-<div align="center">
-
-## 🏅 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Muzan4&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-
-</div>
-
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
-<!-- CONTRIBUTION GRAPH -->
 <div align="center">
 
 ## 📈 Contribution Graph
@@ -286,8 +269,6 @@ This client-side platform translates real-world financial decision matrices into
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
-
-<!-- CONTRIBUTION SNAKE -->
 <div align="center">
 
 ## 🐍 Contribution Snake
@@ -304,19 +285,18 @@ This client-side platform translates real-world financial decision matrices into
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
-<!-- CURRENT FOCUS -->
 ## 🔭 Current Focus
 
-* **Learning**: Advanced Distributed Architectures, Deep Statistical Reinforcement Learning Pipelines
-* **Building**: Multi-threaded Chess Systems with Low-Latency Canvas Engines, Asynchronous Web Framework Core Interfaces
-* **Exploring**: Highly Optimized Graph Theoretical Spatial Calculations
+* **Learning**:Currently expanding my expertise into UI/UX design and Data Analysis/Machine Learning to build data-driven, user-centric digital experiences.
+* **Building**: Developing a robust Android event management application, leveraging Firebase for seamless backend integration and real-time data syncing
+* **Exploring**: Expanding my skill set into game development, leveraging C# and .NET to engineer game logic and core mechanics.
 * **Open To**: Cross-Platform Application Framework Engineering Teams
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
-<!-- CONNECT -->
+
 <div align="center">
 
 ## 🤝 Let's Connect
