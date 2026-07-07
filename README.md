@@ -1,580 +1,305 @@
-<![CDATA[<div align="center">
+<div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- HERO HEADER -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6c3ce0,100:a855f7&height=220&section=header&text=M.%20Aabid%20Zaidi&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=16&descAlignY=55&descColor=c4b5fd&animation=fadeIn" alt="Header Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6c3ce0,100:a855f7&height=220&section=header&text=M.%20Aabid%20Zaidi&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=16&descAlignY=55&descColor=c4b5fd&animation=fadeIn" alt="Header Banner" width="100%" />
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Full-Stack+Developer;AI+%2F+ML+Enthusiast;Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+%2F+ML+Enthusiast;Software+Engineer" alt="Typing Animation" />
 </a>
+
+<br/>
+
+<!-- Profile & Social Badges -->
+<a href="https://github.com/Muzan4"><img src="https://img.shields.io/badge/GitHub-Muzan4-1a1a2e?style=for-the-badge&logo=github&logoColor=a855f7" alt="GitHub" /></a>
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=a855f7" alt="LinkedIn" /></a>
+<a href="mailto:aabidzaidi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1a1a2e?style=for-the-badge&logo=gmail&logoColor=a855f7" alt="Email" /></a>
+<a href="https://zuvikasalon.com/"><img src="https://img.shields.io/badge/Portfolio-Live-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=a855f7" alt="Portfolio" /></a>
 
 <br/><br/>
 
-<!-- Profile Badges -->
-<img src="https://img.shields.io/badge/B.Sc._Computer_Science-1a1a2e?style=for-the-badge&logo=googlescholar&logoColor=a855f7" alt="Education" />
-&nbsp;
-<img src="https://img.shields.io/badge/Mumbai,_India-1a1a2e?style=for-the-badge&logo=googlemaps&logoColor=a855f7" alt="Location" />
-
-<br/><br/>
-
-<!-- Social Badges -->
-<a href="https://github.com/Muzan4">
-  <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=a855f7" alt="GitHub" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=a855f7" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:YOUR-EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=a855f7" alt="Email" />
-</a>
-&nbsp;
-<a href="https://YOUR-PORTFOLIO.com">
-  <img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=a855f7" alt="Portfolio" />
-</a>
+<img src="https://img.shields.io/badge/Education-B.Sc%20Computer%20Science-6c3ce0?style=flat-square&logo=googlescholar&logoColor=white" alt="Academic Badge" />
+<img src="https://img.shields.io/badge/Location-Mumbai%2C%20India-6c3ce0?style=flat-square&logo=googlemaps&logoColor=white" alt="Location Badge" />
 
 <br/><br/>
 
 <!-- Counters -->
-<img src="https://komarev.com/ghpvc/?username=Muzan4&style=for-the-badge&color=6c3ce0&label=PROFILE+VIEWS" alt="Profile Views" />
-&nbsp;
-<a href="https://github.com/Muzan4?tab=followers">
-  <img src="https://img.shields.io/github/followers/Muzan4?style=for-the-badge&color=6c3ce0&labelColor=1a1a2e&logo=github&label=Followers" alt="Followers" />
-</a>
-&nbsp;
-<a href="https://github.com/Muzan4?tab=repositories">
-  <img src="https://img.shields.io/github/stars/Muzan4?style=for-the-badge&color=6c3ce0&labelColor=1a1a2e&logo=github&label=Stars" alt="Stars" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=Muzan4&style=flat-square&color=6c3ce0&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/Muzan4?label=Followers&style=flat-square&color=6c3ce0" alt="Followers" />
+<img src="https://img.shields.io/github/stars/Muzan4?label=Stars&style=flat-square&color=6c3ce0" alt="Stars" />
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" width="100%">
+<hr/>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ABOUT ME -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## About Me
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" alt="About icon" /> &nbsp;About Me
+I am a highly driven Computer Science student and versatile Full-Stack Developer specializing in architecting robust digital solutions and engineering data-driven applications. Grounded in a strong product engineering mindset, my expertise bridges scalable web architectures with predictive AI/ML modeling to solve sophisticated, real-world problems.
 
-```
-Software engineer with a Computer Science foundation, focused on building scalable
-full-stack systems and data-driven applications. Driven by a passion for applying
-AI/ML techniques to solve real-world problems — from predictive analytics to
-geospatial simulations. I prioritize clean architecture, performance, and
-engineering rigor in every project I build.
-```
+Passionate about cross-platform system interoperability, I consistently look to implement secure backends, high-performance web frameworks, and low-latency data loops. I continuously challenge myself by designing production-grade architectures, contributing to data engineering problems, and participating in high-intensity engineering environments.
 
-<br/>
-
-### 🎯 &nbsp;Open To
-
-<table>
-<tr>
-<td><img src="https://img.shields.io/badge/▸_Full--Time_Software_Engineering_Roles-1a1a2e?style=flat-square&labelColor=1a1a2e" alt="Full-Time Roles" /></td>
-<td><img src="https://img.shields.io/badge/▸_Internship_Opportunities-1a1a2e?style=flat-square&labelColor=1a1a2e" alt="Internships" /></td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/▸_Full--Stack_Collaborations-1a1a2e?style=flat-square&labelColor=1a1a2e" alt="Full-Stack Collaborations" /></td>
-<td><img src="https://img.shields.io/badge/▸_AI%2FML_Research_Projects-1a1a2e?style=flat-square&labelColor=1a1a2e" alt="AI/ML Projects" /></td>
-</tr>
-<tr>
-<td colspan="2"><img src="https://img.shields.io/badge/▸_Engineering_Opportunities-1a1a2e?style=flat-square&labelColor=1a1a2e" alt="Engineering Opportunities" /></td>
-</tr>
-</table>
+### Open To
+* Full-Time Software Engineering Roles & Internships
+* Enterprise-Scale Web Architecture Collaborations
+* Data Engineering & ML Infrastructure Projects
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" width="100%">
+<hr/>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- TECH STACK -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" alt="Tech icon" /> &nbsp;Tech Stack
-
-<div align="center">
+## Tech Stack
 
 ### Languages
-
-<img src="https://skillicons.dev/icons?i=python,javascript,java,c&theme=dark" alt="Languages" />
-
-<br/><br/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,java,c&theme=dark" alt="Languages" />
+</p>
 
 ### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" alt="Frontend" />
-
-<br/><br/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" alt="Frontend" />
+</p>
 
 ### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,mysql&theme=dark" alt="Backend & Databases" />
-
-<br/><br/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,mysql&theme=dark" alt="Backend & Databases" />
+</p>
 
 ### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,figma&theme=dark" alt="Tools" />
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" width="100%">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,figma&theme=dark" alt="Tooling" />
+</p>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<hr/>
+
 <!-- AI / ML EXPERTISE -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## AI / ML Expertise
 
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="28" alt="AI icon" /> &nbsp;AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Core Focus |
-|:---|:---:|:---|
-| **Predictive Analytics** | `████████░░` Advanced | Supervised learning · Regression frameworks · Structured datasets |
-| **Mathematical Modeling** | `██████░░░░` Intermediate | Statistical evaluation · Linear regression · Simulation pipelines |
-| **Simulation Systems** | `██████░░░░` Intermediate | Geospatial tracking · Spatial networks · Routing optimization |
-
-</div>
+| Domain | Proficiency | Details |
+| :--- | :--- | :--- |
+| **Predictive Analytics** | Advanced | Supervised learning algorithms, regression frameworks, structured dataset parsing. |
+| **Mathematical Modeling** | Intermediate | Linear Regression modeling, statistical data evaluation, mathematical simulation pipelines. |
+| **Simulation Systems** | Intermediate | Geospatial tracking systems, spatial multi-node network simulation, algorithmic routing optimization. |
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" width="100%">
+<hr/>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- FEATURED PROJECTS -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28" alt="Projects icon" /> &nbsp;Featured Projects
-
-<br/>
+## Featured Projects
 
 <details>
-<summary><b>🛰️ &nbsp;Real-time Map Routing & Satellite Simulation</b></summary>
+<summary>🤖 Real-time Map Routing & Satellite Simulation</summary>
 
-<br/>
+### Project Overview
+A sophisticated Python simulation framework that models multi-node satellite communication configurations alongside real-time geospatial routing vectors across localized mapping environments.
 
-<table>
-<tr><td>
+### System Specifications
+* **Stack**: Python, Algorithmic Network Geometry Packages
+* **Scale**: Multi-node asynchronous network topology processing
+* **Performance**: Optimized shortest-path geometric array computes
+* **Security**: Isolated localized network environments
+* **Impact**: Engineered scalable predictive mapping structures for simulated hardware telemetry
+* **Repository**: [Visit Architecture Codebase](https://github.com)
 
-**Overview**
-> Python-based simulation framework for multi-node satellite communication, featuring geospatial routing algorithms and network topology processing.
-
-**Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=a855f7)
-![Geospatial](https://img.shields.io/badge/Geospatial_Computing-1a1a2e?style=flat-square&logo=openstreetmap&logoColor=a855f7)
-![Algorithms](https://img.shields.io/badge/Graph_Algorithms-1a1a2e?style=flat-square&logo=thealgorithms&logoColor=a855f7)
-
-**Engineering Highlights**
-- Multi-node satellite communication simulation
-- Shortest path optimization with geospatial routing
-- Network topology processing and visualization
-- Scalable spatial computation pipeline
-
-</td></tr>
-</table>
-
+### Deep-Dive Engineering Breakdown
+This application integrates real-time shortest-path coordinate resolution with a custom spatial simulation loop. It continuously parses movement datasets to dynamically compute routing optimizations between tracking terminals and orbiting arrays, illustrating spatial multi-node interaction under strict computational parameters.
 </details>
 
 <br/>
 
 <details>
-<summary><b>🌾 &nbsp;Crop Yield Predictor Engine</b></summary>
+<summary>🌾 Crop Yield Predictor Engine</summary>
 
-<br/>
+### Project Overview
+An isolated mathematical modeling software that analyzes agricultural datasets using regression algorithms to calculate and predict targeted crop output metrics based on changing climate environments.
 
-<table>
-<tr><td>
+### System Specifications
+* **Stack**: Python, Linear Regression Modeling, Predictive Analytics Systems
+* **Scale**: Scalable regression arrays matching changing environmental matrices
+* **Performance**: Sub-second predictive analytical calculations
+* **Security**: Secure local dataset configuration
+* **Impact**: Automated regression tracking processing for predictive farming output models
+* **Repository**: [Visit Architecture Codebase](https://github.com)
 
-**Overview**
-> Machine learning–driven predictive analytics engine built to forecast agricultural crop yields using linear regression models on structured datasets.
-
-**Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=a855f7)
-![ML](https://img.shields.io/badge/Linear_Regression-1a1a2e?style=flat-square&logo=scikitlearn&logoColor=a855f7)
-![Data](https://img.shields.io/badge/Predictive_Analytics-1a1a2e?style=flat-square&logo=pandas&logoColor=a855f7)
-
-**Engineering Highlights**
-- Supervised learning pipeline for agricultural yield prediction
-- Mathematical modeling with structured agricultural datasets
-- Data preprocessing and feature engineering workflows
-- Statistical evaluation and model validation framework
-
-</td></tr>
-</table>
-
+### Deep-Dive Engineering Breakdown
+Built to optimize raw resource modeling, this program transforms linear regression equations into automated data systems. The script isolates inputs to handle matrix multiplication operations smoothly, providing reproducible mathematical modeling structures over variable data parameters.
 </details>
 
 <br/>
 
 <details>
-<summary><b>🍽️ &nbsp;UK-Based Restaurant Web & POS Infrastructure</b></summary>
+<summary>🛒 UK-Based Restaurant Web & POS Infrastructure</summary>
 
-<br/>
+### Project Overview
+A complete, live production-level web application seamlessly integrated with an active Point-of-Sale (POS) management architecture and asynchronous database tracking layers.
 
-<table>
-<tr><td>
+### System Specifications
+* **Stack**: Node.js, Firebase Backend Core, HTML5, CSS3, JavaScript
+* **Scale**: Live point-of-sale terminal sync for multi-channel operational usage
+* **Performance**: Real-time backend document modifications and state persistence
+* **Security**: Secure database access configurations via server environment variables
+* **Impact**: Deployed fully automated transactional loops across international business operations
+* **Repository**: [Visit Architecture Codebase](https://github.com)
 
-**Overview**
-> Full-stack web platform and real-time POS system built for a UK-based restaurant, enabling synchronized order management and seamless digital operations.
-
-**Tech Stack**
-
-![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=flat-square&logo=nodedotjs&logoColor=a855f7)
-![Firebase](https://img.shields.io/badge/Firebase-1a1a2e?style=flat-square&logo=firebase&logoColor=a855f7)
-![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=flat-square&logo=html5&logoColor=a855f7)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=flat-square&logo=css3&logoColor=a855f7)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=a855f7)
-
-**Engineering Highlights**
-- Real-time POS synchronization with Firebase backend
-- End-to-end order and transaction pipeline
-- High-volume data handling and concurrent state management
-- Production-grade deployment for live restaurant operations
-
-</td></tr>
-</table>
-
+### Deep-Dive Engineering Breakdown
+Designed as a full-stack corporate framework, this project connects dynamic transactional logic directly to a cloud database cluster. The POS state tracking engine uses asynchronous network logic to keep web ordering systems and physical terminal nodes synchronized under varying traffic conditions.
 </details>
 
 <br/>
 
 <details>
-<summary><b>💈 &nbsp;Zuvika Luxury Salon — E-Commerce Deployment</b></summary>
+<summary>💈 Zuvika Luxury Salon E-Commerce Deployment</summary>
 
-<br/>
+### Project Overview
+A production-ready e-commerce platform built from scratch to establish a digital presence, optimize client acquisition, and handle scheduling workflows.
 
-<table>
-<tr><td>
+### System Specifications
+* **Stack**: JavaScript, Advanced Frontend Technologies, Cloud Hosting Layers
+* **Scale**: Multi-page client-facing platform serving live regional traffic
+* **Performance**: Optimized rendering metrics with fluid layouts across mobile and desktop displays
+* **Security**: HTTPS transmission standards with production-grade firewall masking
+* **Impact**: Successfully modernized client scheduling paths to increase operational metrics
+* **Live Link**: [View Live Deployment](https://zuvikasalon.com/)
 
-**Overview**
-> Production e-commerce website for Zuvika Luxury Salon, featuring cloud-hosted scheduling workflows and a polished consumer-facing storefront.
-
-**Tech Stack**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=a855f7)
-![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=flat-square&logo=html5&logoColor=a855f7)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=flat-square&logo=css3&logoColor=a855f7)
-![Cloud](https://img.shields.io/badge/Cloud_Hosting-1a1a2e?style=flat-square&logo=cloudflare&logoColor=a855f7)
-
-**Engineering Highlights**
-- Live production deployment with cloud hosting
-- Appointment scheduling workflow engine
-- Responsive, consumer-grade frontend design
-- 🔗 **Live:** [zuvikasalon.com](https://zuvikasalon.com)
-
-</td></tr>
-</table>
-
+### Deep-Dive Engineering Breakdown
+An enterprise freelance architecture focused on optimization, responsive layout stability, and accessibility. The configuration integrates responsive modern rendering strategies to maximize organic search indexing and conversion statistics.
 </details>
 
 <br/>
 
 <details>
-<summary><b>🎮 &nbsp;Gamified Financial Literacy Platform</b></summary>
+<summary>💰 Gamified Financial Literacy Platform</summary>
 
-<br/>
+### Project Overview
+An interactive web application designed to gamify complex microeconomic concepts and financial models for younger demographics.
 
-<table>
-<tr><td>
+### System Specifications
+* **Stack**: Vanilla JavaScript, HTML5, CSS3 Architecture
+* **Scale**: Client-side tracking frameworks running interactive simulations
+* **Performance**: Accelerated frame transitions using direct DOM updates and clean asset rendering
+* **Security**: Sandboxed client architecture preventing state-injection exploits
+* **Impact**: Simplifies complex financial literacy pathways into clear, interactive educational software
+* **Repository**: [Visit Architecture Codebase](https://github.com)
 
-**Overview**
-> Interactive web platform designed to teach financial literacy through gamified simulations and engaging educational modules.
-
-**Tech Stack**
-
-![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=flat-square&logo=html5&logoColor=a855f7)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=flat-square&logo=css3&logoColor=a855f7)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=a855f7)
-
-**Engineering Highlights**
-- Interactive financial simulations with real-time feedback
-- Gamification mechanics for user engagement and retention
-- Educational content delivery system
-- Responsive cross-device interface
-
-</td></tr>
-</table>
-
+### Deep-Dive Engineering Breakdown
+This client-side platform translates real-world financial decision matrices into interactive web states. By avoiding external structural weights, the framework minimizes operational latency on low-end mobile viewports while keeping game states responsive.
 </details>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" width="100%">
+<hr/>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- EXPERIENCE -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## Experience
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28" alt="Experience icon" /> &nbsp;Experience
+### Database Management & Web Development Intern | Bhookie (United Kingdom)
+*April 2025 – July 2025*
 
-<br/>
+* Collaborated on technical infrastructure changes across various operational capacities, shifting from database programmer to technical project lead.
+* Developed full-stack cloud data storage pipelines by linking real-time Firebase services directly into active Node.js server configurations.
+* Engineered multi-channel Point-of-Sale integrations to ensure fast transaction handling between public web menus and internal business portals.
+* Optimized cross-origin data exchanges to build durable data handling routines during high-volume server spikes.
 
-<table>
-<tr>
-<td width="80" align="center">
-<img src="https://img.shields.io/badge/2025-6c3ce0?style=for-the-badge&labelColor=1a1a2e" alt="2025" />
-</td>
-<td>
-
-### Database Management & Web Development Intern
-
-**Bhookie** · United Kingdom &nbsp; `Apr 2025 – Jul 2025`
+*Technologies used: Node.js, Firebase, Database Management (DBMS), Full Stack Engineering*
 
 <br/>
 
-- Database architecture and management for production systems
-- Firebase integration and NoSQL data modeling
-- Node.js backend development and API engineering
-- POS system integrations and real-time data synchronization
-- High-volume transaction handling and performance optimization
-- Cross-functional collaboration on data pipeline workflows
+<hr/>
 
-</td>
-</tr>
+<!-- ACHIEVEMENTS -->
+## Achievements
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">Recognition</th>
+      <th align="left">Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🥇 <b>1st Rank Winner</b></td>
+      <td>SIES College Hackathon Tournament — Jan 2025</td>
+    </tr>
+    <tr>
+      <td>🥇 <b>1st Rank Winner</b></td>
+      <td>Jai Hind College Hackathon Championship — Jan 2025</td>
+    </tr>
+    <tr>
+      <td>🏆 <b>1st Rank College Placement</b></td>
+      <td>Achieved Top Rank across Ramnarain Ruia Board Metrics — 12th ISC</td>
+    </tr>
+    <tr>
+      <td>🎖️ <b>10th District Merit Placement</b></td>
+      <td>Recognized in Regional Top Tier Standings for Academic Merit — ISC Board (87%)</td>
+    </tr>
+  </tbody>
 </table>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" width="100%">
+<hr/>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ACHIEVEMENTS -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🏆 &nbsp;Achievements
-
-<div align="center">
-
-| &nbsp; | Achievement | Event | Period |
-|:---:|:---|:---|:---:|
-| 🥇 | **1st Rank Winner** | SIES College Hackathon Tournament | Jan 2025 |
-| 🥇 | **1st Rank Winner** | Jai Hind College Hackathon Championship | Jan 2025 |
-| 🎓 | **Top College Placement** | Ramnarain Ruia Board Metrics — 12th ISC | — |
-| 📊 | **District Merit Placement** | ISC Board — 87% | — |
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" width="100%">
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- CERTIFICATIONS -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## Certifications
 
-## 📜 &nbsp;Certifications
+### Database Engineering Providers
+* DBMS Architecture — Advanced Mapping
+* Firebase NoSQL — Cloud Architecture
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Database_Engineering-DBMS_Architecture_·_Firebase_NoSQL-1a1a2e?style=for-the-badge&logo=firebase&logoColor=a855f7&labelColor=2d1b69" alt="Database Engineering Certification" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Machine_Learning-Predictive_Modeling_·_Linear_Regression-1a1a2e?style=for-the-badge&logo=scikitlearn&logoColor=a855f7&labelColor=2d1b69" alt="Machine Learning Certification" />
-
-</div>
+### Advanced Machine Learning
+* Predictive Modeling — Linear Regression
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" width="100%">
+<hr/>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CODING PROFILES -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## ⌨️ &nbsp;Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/YOUR-LEETCODE-USERNAME">
-  <img src="https://img.shields.io/badge/LeetCode-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=a855f7" alt="LeetCode" />
-</a>
-&nbsp;
-<a href="https://www.geeksforgeeks.org/user/YOUR-GFG-USERNAME">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-1a1a2e?style=for-the-badge&logo=geeksforgeeks&logoColor=a855f7" alt="GeeksforGeeks" />
-</a>
-&nbsp;
-<a href="https://www.hackerrank.com/YOUR-HACKERRANK-USERNAME">
-  <img src="https://img.shields.io/badge/HackerRank-1a1a2e?style=for-the-badge&logo=hackerrank&logoColor=a855f7" alt="HackerRank" />
-</a>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" width="100%">
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- GITHUB ANALYTICS -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📊 &nbsp;GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/Muzan4">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Muzan4&show_icons=true&theme=transparent&hide_border=true&title_color=a855f7&text_color=c4b5fd&icon_color=6c3ce0&bg_color=0d1117&ring_color=a855f7" alt="GitHub Stats" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Muzan4">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzan4&layout=compact&theme=transparent&hide_border=true&title_color=a855f7&text_color=c4b5fd&bg_color=0d1117&langs_count=8" alt="Top Languages" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Muzan4">
-  <img src="https://streak-stats.demolab.com?user=Muzan4&theme=transparent&hide_border=true&ring=a855f7&fire=a855f7&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=c4b5fd&sideNums=c4b5fd&dates=6c3ce0&background=0d1117" alt="GitHub Streak" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Muzan4">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muzan4&bg_color=0d1117&color=c4b5fd&line=a855f7&point=6c3ce0&area=true&area_color=2d1b69&hide_border=true" alt="Activity Graph" width="95%" />
-</a>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" width="100%">
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- GITHUB TROPHIES -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🏅 &nbsp;GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Muzan4&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" width="100%">
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- CONTRIBUTION SNAKE -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🐍 &nbsp;Contribution Snake
+## Contribution Snake
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Muzan4/Muzan4/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
+  <img src="https://raw.githubusercontent.com/Muzan4/Muzan4/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" width="100%">
+<hr/>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- CURRENT FOCUS -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## Current Focus
 
-## 🔭 &nbsp;Current Focus
-
-<div align="center">
-
-```
-📚 Learning    Advanced Distributed Architectures
-               Deep Statistical Reinforcement Learning Pipelines
-
-🛠️ Building    Multi-threaded Chess Systems
-               Low-latency Canvas Engines
-               Async Web Framework Interfaces
-
-🔬 Exploring   Graph-theoretical Spatial Calculations
-```
-
-</div>
+* **Learning**: Advanced Distributed Architectures, Deep Statistical Reinforcement Learning Pipelines
+* **Building**: Multi-threaded Chess Systems with Low-Latency Canvas Engines, Asynchronous Web Framework Core Interfaces
+* **Exploring**: Highly Optimized Graph Theoretical Spatial Calculations
+* **Open To**: Cross-Platform Application Framework Engineering Teams
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" width="100%">
+<hr/>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- CONNECT -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🤝 &nbsp;Let's Connect
-
 <div align="center">
 
-<a href="mailto:YOUR-EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=a855f7" alt="Email" />
-</a>
-&nbsp;
-<a href="https://github.com/Muzan4">
-  <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=a855f7" alt="GitHub" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=a855f7" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://YOUR-PORTFOLIO.com">
-  <img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=a855f7" alt="Portfolio" />
-</a>
+## Let's Connect
 
-</div>
+<a href="mailto:aabidzaidi@gmail.com"><img src="https://img.shields.io/badge/Email-aabidzaidi%40gmail.com-1a1a2e?style=for-the-badge&logo=gmail&logoColor=a855f7" alt="Email" /></a>
+<a href="https://github.com/Muzan4"><img src="https://img.shields.io/badge/GitHub-Muzan4-1a1a2e?style=for-the-badge&logo=github&logoColor=a855f7" alt="GitHub" /></a>
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=a855f7" alt="LinkedIn" /></a>
+<a href="https://zuvikasalon.com/"><img src="https://img.shields.io/badge/Portfolio-Live-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=a855f7" alt="Portfolio" /></a>
 
-<br/>
+<br/><br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- FOOTER -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<br/>
-
-```
 "First, solve the problem. Then, write the code." — John Johnson
-```
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6c3ce0,100:a855f7&height=120&section=footer" alt="Footer Wave" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6c3ce0,100:a855f7&height=120&section=footer" alt="Footer" width="100%" />
 
 </div>
-]]>
