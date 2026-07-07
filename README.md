@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- HERO HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:3b0764,70:6c3ce0,100:a855f7&height=250&section=header&text=M.%20Aabid%20Zaidi&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=16&descAlignY=58&descColor=c4b5fd&animation=fadeIn&stroke=a855f7&strokeWidth=2.5" alt="Header Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:3b0764,70:6c3ce0,100:a855f7&height=250&section=header&text=M.%20Aabid%20Zaidi&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Web%20%26%20Game%20Developer&descSize=16&descAlignY=58&descColor=c4b5fd&animation=fadeIn&stroke=a855f7&strokeWidth=2" alt="Header Banner" width="100%" />
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+%2F+ML+Enthusiast;Software+Engineer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Web+%26+Game+Developer;Software+Engineer" alt="Typing Animation" />
 </a>
 
 <br/>
@@ -15,7 +15,7 @@
 <a href="https://github.com/Muzan4"><img src="https://img.shields.io/badge/GitHub-Muzan4-1a1a2e?style=for-the-badge&logo=github&logoColor=a855f7" alt="GitHub" /></a>
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=a855f7" alt="LinkedIn" /></a>
 <a href="mailto:aabidzaidi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1a1a2e?style=for-the-badge&logo=gmail&logoColor=a855f7" alt="Email" /></a>
-<a href="https://muzan4.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=a855f7" alt="Portfolio" /></a>
+<a href="https://zuvikasalon.com/"><img src="https://img.shields.io/badge/Portfolio-Live-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=a855f7" alt="Portfolio" /></a>
 
 <br/><br/>
 
@@ -38,14 +38,14 @@
 <!-- ABOUT ME -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" alt="about" /> About Me
 
-I am a highly driven Computer Science student and versatile Full-Stack Developer specializing in architecting robust digital solutions and engineering data-driven applications. Grounded in a strong product engineering mindset, my expertise bridges scalable web architectures with predictive AI/ML modeling to solve sophisticated, real-world problems.
+I am a highly driven Computer Science student and versatile Full-Stack Developer specializing in architecting robust digital solutions and engineering data-driven applications. Grounded in a strong product engineering mindset, my expertise bridges scalable web architectures with interactive game and application development to solve sophisticated, real-world problems.
 
 Passionate about cross-platform system interoperability, I consistently look to implement secure backends, high-performance web frameworks, and low-latency data loops. I continuously challenge myself by designing production-grade architectures, contributing to data engineering problems, and participating in high-intensity engineering environments.
 
 ### Open To
 * Full-Time Software Engineering Roles & Internships
 * Enterprise-Scale Web Architecture Collaborations
-* Data Engineering & ML Infrastructure Projects
+* Game Development & Interactive Application Projects
 
 <br/>
 
@@ -78,14 +78,14 @@ Passionate about cross-platform system interoperability, I consistently look to 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
-<!-- AI / ML EXPERTISE -->
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" alt="ai" /> AI / ML Expertise
+<!-- WEB & GAME DEVELOPMENT FOCUS -->
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" alt="gamedev" /> Web & Game Development Focus
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Predictive Analytics** | Advanced | Supervised learning algorithms, regression frameworks, structured dataset parsing. |
-| **Mathematical Modeling** | Intermediate | Linear Regression modeling, statistical data evaluation, mathematical simulation pipelines. |
-| **Simulation Systems** | Intermediate | Geospatial tracking systems, spatial multi-node network simulation, algorithmic routing optimization. |
+| **Full-Stack Web Development** | Advanced | End-to-end web applications, REST APIs, real-time data sync, cloud-connected backends. |
+| **Game Development** | Intermediate | Canvas-based engines, multi-threaded game logic, low-latency rendering, interactive simulations. |
+| **UI / UX Engineering** | Intermediate | Responsive layouts, component-driven design, performance-optimized frontend interfaces. |
 
 <br/>
 
@@ -234,7 +234,7 @@ This client-side platform translates real-world financial decision matrices into
     </tr>
     <tr>
       <td>🏆 <b>1st Rank College Placement</b></td>
-      <td>Achieved Top Rank in M.U College (ISC Board) — 12th ISC</td>
+      <td>Achieved Top Rank across Ramnarain Ruia Board Metrics — 12th ISC</td>
     </tr>
     <tr>
       <td>🎖️ <b>10th District Merit Placement</b></td>
@@ -246,6 +246,29 @@ This client-side platform translates real-world financial decision matrices into
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
+
+<!-- CERTIFICATIONS -->
+## 📜 Certifications
+
+### Database Engineering Providers
+* DBMS Architecture — Advanced Mapping
+* Firebase NoSQL — Cloud Architecture
+
+### Advanced Machine Learning
+* Predictive Modeling — Linear Regression
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
+
+<!-- GITHUB TROPHIES -->
+<div align="center">
+
+## 🏅 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Muzan4&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+
+</div>
 
 <br/>
 
@@ -301,7 +324,11 @@ This client-side platform translates real-world financial decision matrices into
 <a href="mailto:aabidzaidi@gmail.com"><img src="https://img.shields.io/badge/Email-aabidzaidi%40gmail.com-1a1a2e?style=for-the-badge&logo=gmail&logoColor=a855f7" alt="Email" /></a>
 <a href="https://github.com/Muzan4"><img src="https://img.shields.io/badge/GitHub-Muzan4-1a1a2e?style=for-the-badge&logo=github&logoColor=a855f7" alt="GitHub" /></a>
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=a855f7" alt="LinkedIn" /></a>
-<a href="https://muzan4.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=a855f7" alt="Portfolio" /></a>
+<a href="https://zuvikasalon.com/"><img src="https://img.shields.io/badge/Portfolio-Live-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=a855f7" alt="Portfolio" /></a>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 
 <br/><br/>
 
