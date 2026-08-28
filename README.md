@@ -58,7 +58,7 @@ Passionate about cross-platform system interoperability, I consistently look to 
 
 ### Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,ts,flutter,angular&theme=dark" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,ts,flutter&theme=dark" alt="Frontend" />
 </p>
 
 ### Backend & Databases
