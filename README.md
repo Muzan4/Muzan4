@@ -58,17 +58,17 @@ Passionate about cross-platform system interoperability, I consistently look to 
 
 ### Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,ts,flutter,angular&theme=dark" alt="Frontend" />
 </p>
 
 ### Backend & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,mysql&theme=dark" alt="Backend & Databases" />
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,mysql,supabase&theme=dark" alt="Backend & Databases" />
 </p>
 
 ### Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,figma&theme=dark" alt="Tooling" />
+  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,figma,godot&theme=dark" alt="Tooling" />
 </p>
 
 <br/>
